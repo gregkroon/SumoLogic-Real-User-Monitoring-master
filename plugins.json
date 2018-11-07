@@ -1,0 +1,22 @@
+{
+    "plugins": [
+        "plugins/rt.js",
+        "plugins/auto-xhr.js",
+        "plugins/spa.js",
+        "plugins/angular.js",
+        "plugins/backbone.js",
+        "plugins/ember.js",
+        "plugins/history.js",
+        "plugins/bw.js",
+        "plugins/restiming.js",
+        "plugins/navtiming.js",
+        "plugins/cache-reload.js",
+        "plugins/md5.js",
+        "plugins/compression.js",
+        "plugins/errors.js",
+        "plugins/third-party-analytics.js",
+        "node_modules/usertiming-compression/src/usertiming-compression.js",
+        "plugins/usertiming.js",
+        "plugins/mq.js"
+    ]
+}
